@@ -1,4 +1,4 @@
-# Selenium Sauce Demo
+# Selenium Demo
 
 This is a small demo for using Selenium in combination with the test website selenium.
 
