@@ -6,7 +6,7 @@ This is a small demo for using Selenium in combination with the test website sel
 
 Note: You need the `geckodriver` for Firefox in your PATH.
 
-1. `git  clone https://github.com/shibumi/selenium-demo.git`
+1. `git  clone https://github.com/manideepsai06/Web-app-testing-using-selenium-Python-.git`
 2. `python3 -m venv env`
 3. `source env/bin/activate`
 4. `pip install -r requirements.txt.lock`
